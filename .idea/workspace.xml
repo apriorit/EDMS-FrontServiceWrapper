@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="79f0ebed-a82b-425f-8195-dd05d5ac53e6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../micro-react/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../micro-react/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layout/AppHeader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layout/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/FrontManager.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-fe-ng/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../micro-angular/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-fe-ng/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../micro-angular/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-fe-ng/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../micro-angular/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-fe-ng/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/../micro-angular/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-fe-ng/e2e/protractor.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/../micro-angular/e2e/protractor.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-fe-ng/e2e/src/app.e2e-spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../micro-angular/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-fe-ng/e2e/src/app.po.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../micro-angular/e2e/src/app.po.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-fe-ng/e2e/tsconfig.e2e.json" beforeDir="false" afterPath="$PROJECT_DIR$/../micro-angular/e2e/tsconfig.e2e.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-fe-ng/element-build.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../micro-react/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-fe-ng/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../micro-angular/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-fe-ng/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../micro-angular/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-fe-ng/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../micro-angular/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-fe-ng/src/app/app.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../micro-angular/src/app/app.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-fe-ng/src/app/app.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../micro-angular/src/app/app.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-fe-ng/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../micro-angular/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-fe-ng/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../micro-angular/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-fe-ng/src/app/customelement/customelement.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../micro-angular/src/app/customelement/customelement.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-fe-ng/src/app/customelement/customelement.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../micro-angular/src/app/customelement/customelement.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-fe-ng/src/app/customelement/customelement.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../micro-angular/src/app/customelement/customelement.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-fe-ng/src/app/customelement/customelement.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../micro-angular/src/app/customelement/customelement.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-fe-ng/src/assets/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/../micro-angular/src/assets/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-fe-ng/src/browserslist" beforeDir="false" afterPath="$PROJECT_DIR$/../micro-angular/src/browserslist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-fe-ng/src/environments/environment.prod.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../micro-angular/src/environments/environment.prod.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-fe-ng/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../micro-angular/src/environments/environment.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-fe-ng/src/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../micro-angular/src/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-fe-ng/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../micro-angular/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-fe-ng/src/karma.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/../micro-angular/src/karma.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-fe-ng/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../micro-angular/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-fe-ng/src/polyfills.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../micro-angular/src/polyfills.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-fe-ng/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../micro-angular/src/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-fe-ng/src/test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../micro-angular/src/test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-fe-ng/src/tsconfig.app.json" beforeDir="false" afterPath="$PROJECT_DIR$/../micro-angular/src/tsconfig.app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-fe-ng/src/tsconfig.spec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../micro-angular/src/tsconfig.spec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-fe-ng/src/tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/../micro-angular/src/tslint.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-fe-ng/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/../micro-angular/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-fe-ng/tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/../micro-angular/tslint.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-fe-react/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/../micro-react/.babelrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-fe-react/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-fe-react/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-fe-react/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-fe-react/src/ExampleComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/../micro-react/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-fe-react/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-fe-react/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-fe-wrapper/images/ng.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/ng.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-fe-wrapper/images/react.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/react.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-fe-wrapper/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../micro-fe-wrapper/package.json" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-2009766137">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="js" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JavaScript" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="ESLintLanguageService" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="/usr/local/lib/node_modules/bower" />
+    <bower.json value="" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-552" />
+    <option name="y" value="-1417" />
+    <option name="width" value="2560" />
+    <option name="height" value="1417" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>JavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>JavaScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="wrapper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wrapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wrapper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wrapper" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.12.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="node.js.selected.package.tslint" value="" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79f0ebed-a82b-425f-8195-dd05d5ac53e6" name="Default Changelist" comment="" />
+      <created>1565357643365</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565357643365</updated>
+      <workItem from="1565357644771" duration="46000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="46000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-552" y="-1417" width="2560" height="1417" extended-state="6" />
+    <layout>
+      <window_info id="npm" side_tool="true" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24970461" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/serviceWorker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1965">
+          <caret line="131" column="32" lean-forward="true" selection-start-line="131" selection-start-column="4" selection-end-line="131" selection-end-column="32" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
